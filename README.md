@@ -5,3 +5,4 @@
 1. Install [anipy-cli](https://sdaqo.dev/anipy-cli/getting-started-cli/#options-to-install)
 2. Clone this repo or manually download anipy-cli-launcher.bat
 3. Launch anipy-cli-launcher.bat
+4. Enjoy!
